@@ -2,3 +2,4 @@
 *.tfstate*
 *.tfvars
 test.sh
+*.DS_Store
